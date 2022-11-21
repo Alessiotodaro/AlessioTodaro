@@ -1,9 +1,10 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <br />
 <div align="center">
+  ![alt text](https://github.com/Alessiotodaro/AlessioTodaro/blob/master/images/logo.jpeg?raw=true)
   <a href="https://github.com/Alessiotodaro">
     ![alt text](https://avatars.githubusercontent.com/u/114832096?s=400&u=75b1829685ffca8289ba5243d77aadb56726c294&v=4)
-    <img src="logo.jpeg") alt="Logo" width="80" height="80">
+    <img src=) alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Alessio Todaro</h3>

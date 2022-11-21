@@ -1,21 +1,22 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
-<br />
 <div align="center">
-  <a href="https://github.com/Alessiotodaro">
-    <img src=) alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Alessio Todaro</h3>
+  <h1 align="center">Hi there 👋</h3>
 
   <p align="center">
-    Web-Developer and Graphic!
+    I'm Alessio from Italy, and I do content on Graphic and Development. I really enjoy learning languages and make some graphic project. I also enjoy wireframing, ux, ui and design in general. You can chek out my linkedin page at the badge in the bottom.
     <br />
   </p>
+  
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  
+   
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alessiotodaro)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
   
-  [![Next][Next.js]][Next-url][![React][React.js]][React-url][![Vue][Vue.js]][Vue-url][![Angular][Angular.io]][Angular-url][![Laravel][Laravel.com]][Laravel-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JQuery][JQuery.com]][JQuery-url]
+   [![Next][Next.js]][Next-url][![React][React.js]][React-url][![Vue][Vue.js]][Vue-url][![Angular][Angular.io]][Angular-url][![Laravel][Laravel.com]][Laravel-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JQuery][JQuery.com]][JQuery-url]
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alessiotodaro)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/alessio-todaro-356555230/

@@ -2,6 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Alessiotodaro">
+    ![alt text](https://avatars.githubusercontent.com/u/114832096?s=400&u=75b1829685ffca8289ba5243d77aadb56726c294&v=4)
     <img src="logo.jpeg") alt="Logo" width="80" height="80">
   </a>
 

@@ -12,8 +12,6 @@
     <br />
   </p>
 </div>
-<br>
-<br>
    [![Next][Next.js]][Next-url][![React][React.js]][React-url][![Vue][Vue.js]][Vue-url][![Angular][Angular.io]][Angular-url][![Laravel][Laravel.com]][Laravel-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JQuery][JQuery.com]][JQuery-url]
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555

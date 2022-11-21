@@ -13,8 +13,9 @@
   </p>
 </div>
 
-
-   <div align="center">[![Next][Next.js]][Next-url] [![React][React.js]][React-url][![Vue][Vue.js]][Vue-url][![Angular][Angular.io]][Angular-url][![Laravel][Laravel.com]][Laravel-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JQuery][JQuery.com]][JQuery-url]</div>
+<div align="center">
+   [![Next][Next.js]][Next-url] [![React][React.js]][React-url][![Vue][Vue.js]][Vue-url][![Angular][Angular.io]][Angular-url][![Laravel][Laravel.com]][Laravel-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JQuery][JQuery.com]][JQuery-url]
+  </div>
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/alessio-todaro-356555230/

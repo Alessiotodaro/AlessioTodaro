@@ -1,9 +1,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <br />
 <div align="center">
-  ![alt text](https://github.com/Alessiotodaro/AlessioTodaro/blob/master/images/logo.jpeg?raw=true)
   <a href="https://github.com/Alessiotodaro">
-    ![alt text](https://avatars.githubusercontent.com/u/114832096?s=400&u=75b1829685ffca8289ba5243d77aadb56726c294&v=4)
     <img src=) alt="Logo" width="80" height="80">
   </a>
 
@@ -16,6 +14,8 @@
 </div>
   
   [![Next][Next.js]][Next-url][![React][React.js]][React-url][![Vue][Vue.js]][Vue-url][![Angular][Angular.io]][Angular-url][![Laravel][Laravel.com]][Laravel-url][![Bootstrap][Bootstrap.com]][Bootstrap-url][![JQuery][JQuery.com]][JQuery-url]
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alessiotodaro)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/alessio-todaro-356555230/
